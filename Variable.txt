@@ -1,0 +1,9 @@
+Variable တွေကို RAM မှာ store လုပ်တယ်။ အဲ့လို store တဲ့အခါမှာလည်း လိပ်စာလို့ခေါ်တဲ့ memory address နဲ့ store လုပ်တယ်။
+memory address & value ဆိုပြီး ရှိတယ်။
+int data type ကို store လိုက်ရင် RAM မှာ 4B(bytes) နေရာယူတယ်။
+တခြား data type တွေလည်း အတူတူပဲ။
+
+value ကို address ပြောင်းရင် reference(&)
+address ကို value ပြန်ပြောင်းရင် dereference(*)
+
+Pointer သည်မှုရင်း variable တွေကို Pointer variable သုံးပြီး ပြောင်းလဲမှု(modifide) လုပ်သည်။
